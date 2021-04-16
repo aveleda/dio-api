@@ -4,7 +4,7 @@
 |-:|-|
 |master|![.NET](https://github.com/aveleda/dio-api/workflows/.NET/badge.svg)|
 
-## Criando uma api com o .NET
+## Criando uma API com o .NET
 
 ## Contato
 
